@@ -10,3 +10,6 @@ lcsc part nr's:
 Links:<br />
 https://lcsc.com/product-detail/Pin-Header-Female-Header_HOAUC-2343U-140CNG1SNT01_C343630.html
 https://lcsc.com/product-detail/Pin-Header-Female-Header_BOOMELE-Boom-Precision-Elec-2-54mm-1x40P_C2337.html
+
+IMG:<br />
+![alt text](https://github.com/13r1ckz/Adapter-2.54-to-1.27-16p/blob/master/gerbview_3y7ik9JKlN.png)
