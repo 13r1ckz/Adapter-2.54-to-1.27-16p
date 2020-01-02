@@ -13,3 +13,4 @@ https://lcsc.com/product-detail/Pin-Header-Female-Header_BOOMELE-Boom-Precision-
 
 IMG:<br />
 ![alt text](https://github.com/13r1ckz/Adapter-2.54-to-1.27-16p/blob/master/gerbview_3y7ik9JKlN.png)
+![alt text](https://github.com/13r1ckz/Adapter-2.54-to-1.27-16p/blob/master/img_of_2x5_breakout.jpg)
